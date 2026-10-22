@@ -46,6 +46,7 @@ some backgrounds are CraftPix assets, and the sound effects are third-party.
 
 ## Links
 
+- **Full showcase** (gameplay GIFs, video, screenshots, tools, timeline): [github.com/crisdesivo/pixel-pi](https://github.com/crisdesivo/pixel-pi)
 - Steam: [store.steampowered.com/app/2448910/Pixel_PI/](https://store.steampowered.com/app/2448910/Pixel_PI/)
 - Game website: [pixelpigame.com](https://pixelpigame.com/) · itch.io: [crischu.itch.io/pixel-pi](https://crischu.itch.io/pixel-pi)
 - Games case on my site: [cristiandesivo.com/case/games/](https://cristiandesivo.com/case/games/)
