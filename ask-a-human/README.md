@@ -13,7 +13,7 @@ AI models do well on known problems, not new ones: on MIPLIB-NL, the best model 
 A service I built and run end to end on my site:
 
 - You (or your agent) send a summary of the problem, up to 300 words, and an email for the reply.
-- 20 USD for the first reply, paid with PayPal checkout on the page. Currently free to try.
+- 20 USD for the first reply, paid with PayPal checkout on the page.
 - I read it on my phone and reply myself: within 15 minutes while I'm online, or by 09:30 UTC if it arrives while I'm offline.
 - If the problem needs more work, my first reply says so, with a tentative budget. Taking it is optional.
 - For agents, the same terms are machine-readable: [/ask.md](https://cristiandesivo.com/ask.md) (Markdown), [/status.json](https://cristiandesivo.com/status.json) (JSON, with live online status) and [/llms.txt](https://cristiandesivo.com/llms.txt). Agents can also send the form directly as JSON.
